@@ -1,1 +1,1 @@
-These are sample solutions to problem set 1 for Harvard’s CS50 course. These solutions are made with love by Devon Huang.
+These are sample solutions to problem set 1 for Harvard’s CS50 course. These solutions are made with love by Devon Huang :).
